@@ -13,6 +13,8 @@ Many thanks to @sadolit for the android app.
 
 The PCB is designed for DIY.
 
-MCU board: Core51822 (nRF51822)
-AC/DC: ZETTLER ZP01S
-Triac Driver Output Optocoupler: MOC304
+ - MCU board: Core51822 (nRF51822)
+ - AC/DC: ZETTLER ZP01S
+ - Triac Driver Output Optocoupler: MOC304
+
+![MCU](board/Core51822-pin.jpg)
